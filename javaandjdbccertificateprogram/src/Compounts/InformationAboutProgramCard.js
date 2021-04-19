@@ -15,6 +15,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import WhatAppIcon from '@material-ui/icons/WhatsApp';
 import MailOutlineICon from '@material-ui/icons/MailOutline';
+import Language from '@material-ui/icons/Language';
 import images from '../Images/nat-10.jpg';
 
 const useStyles = makeStyles((theme) => ({
@@ -82,6 +83,7 @@ export default function InformationAboutProgram() {
                         <header>Contact Us</header>
                         <header><WhatAppIcon />:9740152833</header>
                         <header><MailOutlineICon />:akashronad48@gmail.com</header>
+						<header><Language />:<a href="https://akashronad.netlify.app/" target="_blank"> https://akashronad.netlify.app/ </a></header>
                         
         </Typography>
                 </CardContent>
