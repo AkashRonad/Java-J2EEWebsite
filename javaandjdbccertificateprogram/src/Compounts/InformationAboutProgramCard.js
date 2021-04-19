@@ -78,7 +78,7 @@ export default function InformationAboutProgram() {
                 <CardContent>
                     <Typography variant="body2" color="textSecondary" component="p">
                         <header>Course Duration: 6Weeks</header>
-                        <header>Course Fess: $5000</header>
+                        <header>Course Fess: 5000</header>
                         <header>Contact Us</header>
                         <header><WhatAppIcon />:9740152833</header>
                         <header><MailOutlineICon />:akashronad48@gmail.com</header>
